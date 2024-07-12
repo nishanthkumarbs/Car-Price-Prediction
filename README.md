@@ -74,7 +74,7 @@ Car Price Prediction/
 
 3. **Install the required packages**:
     ```bash
-    pip install pandas scikit-learn h5py flask nump
+    pip install pandas scikit-learn h5py flask numpy
     ```
 
 4. **Ensure the model file exists**:
