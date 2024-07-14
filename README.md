@@ -52,7 +52,7 @@ Car Price Prediction/
 
 ## Prerequisites
 
-- Python 3.10.10
+- Python 3.12
 - Required Python packages:
   - pandas
   - scikit-learn
