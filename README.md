@@ -2,7 +2,7 @@
 
 This project is a web application that predicts the selling price of a car based on its mileage and age using a machine learning model. The application is built using Flask for the web interface and scikit-learn for the machine learning model.
 
-<!-- #### Supervised by 
+#### Supervised by 
 [Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu), 
 (Assistant Professor) 
 Department of CSE, MIT Mysore
@@ -10,8 +10,8 @@ Department of CSE, MIT Mysore
 #### Collaborators
 - 4MH21CS066 [Nishanth Kumar B S](https://github.com/nishanthkumarbs) 
 - 4MH21CS067 [Nishanth P.R](https://github.com/royalnishanth1)
-- 4MH21CS071 [Praveen N R](https://github.com/nishanthkj)
-- 4MH21CS076 [R Rithin](https://github.com/rithin2003) -->
+- 4MH21CS071 [Praveen N R](https://github.com/praveennr18)
+- 4MH21CS076 [R Rithin](https://github.com/rithin2003)
 
 ## Project Structure
 
