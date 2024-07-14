@@ -1,9 +1,6 @@
-pandas
-numpy
-scikit-learn
-flask
-pytest
-flake8
-h5py
-werkzeug
-gunicorn
+Flask==2.3.2
+h5py==3.8.0
+numpy==1.24.4
+pandas==2.0.3
+pickle5==0.0.11
+scikit-learn==1.2.2
