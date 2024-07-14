@@ -320,7 +320,8 @@ with h5py.File(hdf5_path, 'w') as h5f:
 print(f"Data and model saved to {hdf5_path}")
 ```
 ## Screenshots
-![image](https://github.com/user-attachments/assets/c0aa9296-19c9-41de-97fc-c1bb5b052514)
+![image](https://github.com/user-attachments/assets/eb503d96-09fc-4c5b-8b90-0a2bc5daf9e0)
+
 
 ## Conclusion
 
